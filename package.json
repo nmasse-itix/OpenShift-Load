@@ -1,0 +1,13 @@
+{
+  "name": "openshift-load",
+  "version": "0.0.1",
+  "description": "An OpenShift app that consumes CPU",
+  "main": "server.js",
+  "scripts": {},
+  "author": "Nicolas MASSE",
+  "repository": "https://github.com/nmasse-itix/OpenShift-Load.git",
+  "license": "MIT",
+  "dependencies": {
+    "express": "latest"
+  }
+}
